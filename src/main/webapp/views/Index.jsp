@@ -1,0 +1,329 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    <%@ page isELIgnored="false" %>
+           <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<!DOCTYPE html>
+<html  >
+<head>
+  <!-- Home Page -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="views/assets/images/logo2.png" type="image/x-icon">
+  <meta name="description" content="Home page to my Travel log website.">
+  
+  
+  <title>Home</title>
+  <link rel="stylesheet" href="views/assets/web/assets/icons/icons.css">
+  <link rel="stylesheet" href="views/assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="views/assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="views/assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="views/assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="views/assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="views/assets/tether/tether.min.css">
+  <link rel="stylesheet" href="views/assets/theme/css/style.css">
+  <link rel="stylesheet" href="views/assets/gallery/style.css">
+  <link rel="preload" as="style" href="views/assets/CSS/css/mbr-additional.css">
+  <link rel="stylesheet" href="views/assets/CSS/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+  <section class="menu cid-sa0VjVewus" once="menu" id="menu2-0">
+
+    
+
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="/">
+                        <img src="views/assets/images/logo2.png" alt="Travel" style="height: 3.8rem;">
+                    </a>
+                </span>
+                
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
+                <li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="/">
+                        Home
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="Travel log">
+                        Traveled To
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="Insert into SQL">
+                        Add trip Details
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="AboutMe">
+                        About Me
+                    </a>
+                </li>
+            </ul>
+            <div class="navbar-buttons mbr-section-btn">
+                <a class="btn btn-sm btn-primary display-4" href="https://www.youtube.com/channel/UCQY279iOMrQ0d4RfgablRrw">
+                    <span class="btn-icon mbri-video mbr-iconfont mbr-iconfont-btn">
+                    </span>
+                    Youtube Channel
+                </a>
+            </div>
+        </div>
+    </nav>
+</section>
+
+<section class="engine"><a href="/">Mithun Krishna</a></section><section class="cid-sa0VmeZSpL mbr-fullscreen mbr-parallax-background" id="header2-1">
+
+    
+
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(35, 35, 35);"></div>
+
+    <div class="container align-center">
+        <div class="row justify-content-md-center">
+            <div class="mbr-white col-md-10">
+                <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">
+                    Hi,
+                </h1>
+                
+                <p class="mbr-text pb-3 mbr-fonts-style display-5">
+                    This is Mithun, full time Software Engineer - Part time Youtuber - Travel Enthusiast. <br> <h4>Welcome to My Travel Diary</h4>
+                </p>
+                <div class="mbr-section-btn">
+                    <a class="btn btn-md btn-secondary display-4" href="Travel log">Travel Destinations</a>
+                    <a class="btn btn-md btn-white-outline display-4" href="AboutMe">About Me</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mbr-arrow hidden-sm-down" aria-hidden="true">
+        <a href="#next">
+            <i class="mbri-down mbr-iconfont"></i>
+        </a>
+    </div>
+</section>
+
+<section class="counters1 counters cid-sa0VrskY90" id="counters1-2">
+
+    
+
+    
+
+    <div class="container">
+        <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
+           	YouTube
+        </h2>
+        <h3 class="mbr-section-subtitle mbr-fonts-style display-5">
+            Mithun Krishna
+        </h3>
+
+        <div class="container pt-4 mt-2">
+            <div class="media-container-row">
+                <div class="card p-3 align-center col-12 col-md-6 col-lg-4">
+                    <div class="panel-item p-3">
+                        <div class="card-img pb-3">
+                            <span class="mbri-users mbr-iconfont"></span>
+                        </div>
+
+                        <div class="card-text">
+                            <h3 class="count pt-3 pb-3 mbr-fonts-style display-2">
+                            1000000     
+                    		
+                    		</h3>
+                            <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">
+                                Subscribers
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="card p-3 align-center col-12 col-md-6 col-lg-4">
+                    <div class="panel-item p-3">
+                        <div class="card-img pb-3">
+                            <span class="mbri-touch mbr-iconfont"></span>
+                        </div>
+                        <div class="card-text">
+                            <h3 class="count pt-3 pb-3 mbr-fonts-style display-2">
+                                  200
+                            </h3>
+                            <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">
+                                Total Views
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card p-3 align-center col-12 col-md-6 col-lg-4">
+                    <div class="panel-item p-3">
+                        <div class="card-img pb-3">
+                            <span class="mbri-video mbr-iconfont"></span>
+                        </div>
+                        <div class="card-text">
+                            <h3 class="count pt-3 pb-3 mbr-fonts-style display-2">
+                                  300
+                            </h3>
+                            <h4 class="mbr-content-title mbr-bold mbr-fonts-style display-7">
+                                No. Of Videos
+                            </h4>
+                        </div>
+                    </div>
+                </div>
+
+
+                
+            </div>
+        </div>
+   </div>
+</section>
+
+<section class="mbr-gallery mbr-slider-carousel cid-sa0W1ZPbur" id="gallery2-8">
+
+    
+
+    <div class="container">
+        <div><!-- Filter -->
+        <div class="mbr-gallery-filter container gallery-filter-active">
+        <ul buttons="0">
+        	<li class="mbr-gallery-filter-all ">
+        	<!--  -->	<a class="btn btn-md display-7" href=""></a>  
+        	</li>
+        </ul>
+        </div><!-- Gallery -->
+        <div class="mbr-gallery-row">
+        <div class="mbr-gallery-layout-default">
+        	<div>
+        		<div>
+        		<% int count=0; %>
+        		<c:forEach var="doc" items="${img}">
+        		<% count++; %>
+        			<div class="mbr-gallery-item mbr-gallery-item--p2" data-video-url="false" data-tags="GALLERY">
+        				<div href="#lb-gallery2-8" data-slide-to="0" data-toggle="modal">
+        					<img src="getStudentPhoto/<c:out value='${doc.id}'/>" alt="${doc.docName}"  title="">
+        						<span class="icon-focus"></span>
+        				</div>
+        			</div>
+        			<%
+        			if(count==15)
+        				break;
+        			%>
+        			</c:forEach>
+        		</div>
+        	</div>
+        	<div class="clearfix">
+        	</div>
+        </div>
+     </div>
+	 </div>
+    </div> 
+
+</section>
+
+<section class="cid-sa0VQHnCq5" id="video3-7">
+
+    
+    
+    <figure class="mbr-figure align-center container">
+        <div class="video-block" style="width: 80%;">
+            <div><iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/asTpfI9hrVU?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0" width="1280" height="720" frameborder="0" allowfullscreen></iframe></div>
+        </div>
+    </figure>
+</section>
+
+<section class="cid-sa0XKGGrHw" id="footer5-g">
+ 
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="col-md-3">
+                <div class="media-wrap">
+                    <a href="/">
+                       <img src="views/assets/images/logo2.png" alt="Travel Diary">
+                    </a>
+                </div>
+            </div>
+
+        </div>
+        <div class="footer-lower">
+            <div class="media-container-row">
+                <div class="col-md-12">
+                    <hr>
+                </div>
+            </div>
+            <div class="media-container-row mbr-white">
+                <div class="col-md-6 copyright">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        © Copyright 2020 - All Rights Reserved
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <div class="social-list align-right">
+                        <div class="soc-item">
+                            <a href="https://twitter.com/Mithunkr_" target="_blank">
+                                <span class="socicon-twitter socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.facebook.com/krishna.mithun10" target="_blank">
+                                <span class="socicon-facebook socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.youtube.com/channel/UCQY279iOMrQ0d4RfgablRrw/featured" target="_blank">
+                                <span class="socicon-youtube socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://instagram.com/mithunkr__" target="_blank">
+                                <span class="socicon-instagram socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="https://www.linkedin.com/in/mithunkr14/" target="_blank">
+                                <span class="socicon-linkedin socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="views/assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="views/assets/popper/popper.min.js"></script>
+  <script src="views/assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="views/assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="views/assets/dropdown/js/nav-dropdown.js"></script>
+  <script src="views/assets/dropdown/js/navbar-dropdown.js"></script>
+  <script src="views/assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="views/assets/tether/tether.min.js"></script>
+  <script src="views/assets/viewportchecker/jquery.viewportchecker.js"></script>
+  <script src="views/assets/masonry/masonry.pkgd.min.js"></script>
+  <script src="views/assets/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="views/assets/bootstrapcarouselswipe/bootstrap-carousel-swipe.js"></script>
+  <script src="views/assets/vimeoplayer/jquery.mb.vimeo_player.js"></script>
+  <script src="views/assets/parallax/jarallax.min.js"></script>
+  <script src="views/assets/theme/js/script.js"></script>
+  <script src="views/assets/gallery/player.min.js"></script>
+  <script src="views/assets/gallery/script.js"></script>
+  <script src="views/assets/slidervideo/script.js"></script>
+  
+  
+</body>
+</html>
